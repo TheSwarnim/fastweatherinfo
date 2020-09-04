@@ -9,8 +9,8 @@
 ## Introduction
 
 Setup:
--install nodejs if not installed from [here](https://nodejs.org/en/)
+- install nodejs if not installed from [here](https://nodejs.org/en/)
 
 - run `npm i && npm start` for both client and server side to start the development server
 
--you are ready to go :)
+- you are ready to go :)
